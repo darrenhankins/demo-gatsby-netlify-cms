@@ -88,7 +88,7 @@ NewsPost.propTypes = {
 export default NewsPost
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
+  query NewsPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
