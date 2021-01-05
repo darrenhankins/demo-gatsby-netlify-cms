@@ -9,9 +9,9 @@ featuredimage: /img/sports-ball-football-american-footbal-royalty-free-thumbnail
 tags:
   - sports
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque enim erat, a dapibus metus sagittis ut. Nunc vel varius augue. Vestibulum imperdiet consectetur ex, at dapibus massa laoreet ut. Nulla ornare rhoncus risus et cursus. Aenean vulputate a dolor sagittis scelerisque. Etiam fringilla in orci et imperdiet. Etiam vitae euismod massa, eu iaculis elit. Nam tellus erat, dictum nec ornare vitae, luctus quis purus.
+![football](/img/sports-ball-football-american-footbal-royalty-free-thumbnail.jpg "Football")
 
-![](/img/sports-ball-football-american-footbal-royalty-free-thumbnail.jpg)
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque enim erat, a dapibus metus sagittis ut. Nunc vel varius augue. Vestibulum imperdiet consectetur ex, at dapibus massa laoreet ut. Nulla ornare rhoncus risus et cursus. Aenean vulputate a dolor sagittis scelerisque. Etiam fringilla in orci et imperdiet. Etiam vitae euismod massa, eu iaculis elit. Nam tellus erat, dictum nec ornare vitae, luctus quis purus.
 
 Etiam a mauris sed felis viverra malesuada vitae finibus elit. Vivamus eu dapibus ex. Praesent sed mollis eros. Aenean quis nisi sed enim efficitur commodo sit amet interdum ante. Sed vel ultricies quam. Sed commodo, ex ullamcorper tempus condimentum, lectus sapien rutrum augue, sed fermentum est lacus non libero. Praesent vel commodo quam.
 
