@@ -1,6 +1,6 @@
 ---
 templateKey: news-post
-title: This is a test
+title: This is a NEW test
 date: 2020-12-28T00:41:27.016Z
 description: This is a test description.
 featuredpost: true
